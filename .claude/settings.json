@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -)",
+      "Bash(cd /home/jinava/dsai3f *)",
+      "Read(//home/jinava/dsai3f/**)"
+    ]
+  }
+}
